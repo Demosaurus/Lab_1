@@ -1,0 +1,8 @@
+# Caesar decoded - The original Caesar cipher alwaYs used a shift of three
+echo "Wkh ruljlqdo Fdhvdu flskhu dozdBv xvhg d vkliw ri wkuhh" | tr '[A-Za-z]' '[X-ZA-Wx-za-w]' 
+ 
+# ROT13 decoded - ROT 13 WAS USED BY MICROSOFT FOR ENCODING WINDOWS REGISTRYENTRIES
+echo "EBG 13 JNF HFRQ OL ZVPEBFBSG SBE RAPBQVAT JVAQBJF ERTVFGELRAGEVRF" | tr '[N-ZA-M]' '[A-Z]'
+ 
+# ROT 47 decoded - With experience you will start to recognise the character sets of each encoding.
+echo "(:E9 6IA6C:6?46 J@F H:== DE2CE E@ C64@8?:D6 E96 492C24E6C D6ED @7 6249 6?4@5:?8]" | tr '\!-~' 'P-~\!-O'
